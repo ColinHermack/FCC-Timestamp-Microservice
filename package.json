@@ -1,0 +1,9 @@
+{
+    "name": "Colin Hermack",
+    "version": "1.0.0",
+    "description": "An API microservice that will return time information based on when requests are made.",
+    "keywords": ["FreeCodeCamp", "node.js"],
+    "dependencies": {
+        "express": "^9.5.1"
+    }
+}
